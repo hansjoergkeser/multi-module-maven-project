@@ -1,1 +1,4 @@
-/multi-module-maven-project.iml
+/.idea/
+/module-a/target/
+/module-c/target/
+/module-b/target/
