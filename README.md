@@ -2,6 +2,9 @@
 
 tests of module a and b use implementation from module c
 
+execute tests in terminal:<br>
+mvn test
+
 the module that wants to use code from anther module has to implement the dependency
 e.g. Module A wants to use something from Module C then<br>
 module a has to implement
