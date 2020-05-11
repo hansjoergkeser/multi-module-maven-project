@@ -10,9 +10,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
+        <module>module-c</module>
         <module>module-a</module>
         <module>module-b</module>
-        <module>module-c</module>
     </modules>
 
     <properties>
